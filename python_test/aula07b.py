@@ -1,0 +1,7 @@
+name = input('anything:')
+print("'{:20}'".format(name))
+print("'{:>20}'".format(name))
+print("'{:<20}'".format(name))
+print("'{:^20}'".format(name))
+print("'{:=^20}'".format(name))
+print("'{:-^20}'".format(name))
